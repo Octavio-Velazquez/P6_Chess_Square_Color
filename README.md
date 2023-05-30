@@ -1,0 +1,1 @@
+# P6_Chess_Square_Color
